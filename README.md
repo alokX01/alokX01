@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar</h1>
 <h3 align="center">
-Aspiring Full Stack Developer | MERN Stack Learner | Building Projects to Learn
+Aspiring Full Stack Developer | MERN Stack Learner | Growing Through Practice
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Development;MERN+Stack+Learner;Learning+by+Building+Projects;Consistency+Over+Motivation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Development;MERN+Stack+Learner;Learning+by+Building+and+Breaking;Consistency+Over+Motivation" />
 </p>
 
 <img align="right" alt="Coding" width="380"
@@ -15,11 +15,11 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE student (Graduation: **2026**)
-- 🔭 Currently working on **full-stack web applications**
-- 🌱 Learning **Next.js, TypeScript & Backend Development**
-- 🧠 Practicing **Data Structures & Problem Solving**
+- 🔭 Currently learning and practicing **full-stack web development**
+- 🌱 Exploring **Next.js, TypeScript & backend concepts**
+- 🧠 Working on **Data Structures & problem-solving**
 - 🎯 Goal: Become a **job-ready Software Developer**
-- ⚡ Fun fact: Debugging teaches me more than tutorials
+- ⚡ I believe in learning by doing, not rushing results
 
 ---
 
@@ -53,39 +53,6 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ---
 
-## 🚀 Featured Projects
-
-### 1️⃣ Code Snippets Manager
-🔗 https://github.com/alokX01/snippets-app  
-**Tech:** Next.js, TypeScript, Prisma, Tailwind CSS  
-
-- CRUD app to store and manage code snippets
-- Uses App Router & server components
-- Prisma for type-safe DB operations
-- Focus on clean structure over fancy UI
-
----
-
-### 2️⃣ FocusFlow – Productivity App
-🔗 https://github.com/alokX01/focusflow  
-**Tech:** React, TypeScript  
-
-- Pomodoro-based focus timer
-- Task and distraction tracking
-- Built as a learning + productivity project
-
----
-
-### 3️⃣ Seller E-Commerce Platform
-🔗 https://github.com/alokX01/Seller-E-commerce  
-**Tech:** MERN Stack  
-
-- Product, order & user management
-- Authentication & REST APIs
-- Practical backend-focused project
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -98,11 +65,12 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ---
 
-## 🧠 DSA & Learning Journey
+## 🧠 Learning Philosophy
 
-- Practicing **DSA regularly**
-- Focus areas: Arrays, Strings, Recursion, Linked Lists
-- Learning by **writing code, breaking it, fixing it**
+- Focus on **strong fundamentals**
+- Write code daily, even small
+- Prefer clarity over shortcuts
+- Long-term growth mindset
 
 ---
 
@@ -118,14 +86,14 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 💼 Open to Opportunities
 
-- 🔍 Looking for **Internships / Entry-level roles**
-- 🌱 Strong willingness to learn
-- 🤝 Comfortable working in a team
+- 🔍 Open to **internships & entry-level roles**
+- 🌱 Willing to learn and improve every day
+- 🤝 Comfortable collaborating in teams
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alokX01&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <i>⭐️ Growing one project at a time — Alok Kumar</i>
+  <i>⭐️ Building skills patiently — Alok Kumar</i>
 </p>
