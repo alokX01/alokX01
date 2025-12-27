@@ -80,7 +80,12 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <a href="https://github.com/alokX01" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
 </a>
+
+<a href="mailto:helloalokkumar108@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
+
 
 ---
 
